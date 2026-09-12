@@ -21,8 +21,3 @@ Example:
 ```bash
 make clean / make fclean / make re
 ```
-
-## What I learned
-- Thread synchronization and avoiding race conditions
-- Preventing deadlocks while sharing limited resources
-- Precise timing and clean thread shutdown
